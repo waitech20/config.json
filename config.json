@@ -1,0 +1,99 @@
+{
+	"blog": {
+		"blogger_id": "5348569401024223207",
+		"api_key": "AIzaSyAuP0admowU17bcJFyFJimRA6dEIm5uN8M"
+	},
+	"app": {
+		"status": "1",
+		"more_apps_url": "",
+		"redirect_url": "",
+		"privacy_policy_url": "https://sites.google.com/view/waitech-solutions-publisher/privacy-policy",
+		"publisher_info_url": "
+https://sites.google.com/view/waitech-solutions-publisher/publisher-info",
+		"terms_conditions_url": "https://sites.google.com/view/waitech-solutions-publisher/terms-conditions",
+		"about_us_url": "https://sites.google.com/view/blogger-news-app-terms",
+		"display_page_menu": "true",
+		"display_view_on_site_menu": "true",
+		"custom_label_list": "false"
+	},
+	"notification": {
+		"fcm_notification_topic": "blogger_news_app_topic",
+		"onesignal_app_id": "0855da51-0ba7-45dc-b790-156c615df153"
+	},
+	"ads": {
+		"ad_status": "1",
+		"ad_type": "admob",
+		"admob_publisher_id": "pub-4901211432060455",
+		"admob_app_id": "ca-app-pub-4901211432060455~2619350287",
+		"admob_banner_unit_id": "ca-app-pub-4901211432060455/6788312549",
+		"admob_interstitial_unit_id": "ca-app-pub-4901211432060455/3914737191",
+		"admob_native_unit_id": "ca-app-pub-4901211432060455/6784975940",
+		"admob_app_open_ad_unit_id": "ca-app-pub-4901211432060455/9259660692",
+		"startapp_app_id": "0",
+		"unity_game_id": "",
+		"unity_banner_placement_id": "banner",
+		"unity_interstitial_placement_id": "video",
+		"applovin_banner_ad_unit_id": "0",
+		"applovin_interstitial_ad_unit_id": "0",
+		"mopub_banner_ad_unit_id": "0",
+		"mopub_interstitial_ad_unit_id": "0",
+		"interstitial_ad_interval": 3,
+		"native_ad_interval": 10,
+		"native_ad_index": 5
+},
+	"labels": [
+		{
+			"term": "Android",
+			"image": "https://i.imgur.com/WGTze0m.png"
+		},
+		{
+			"term": "Social Media",
+			"image": "https://i.imgur.com/VVr7qpo.png"
+		},
+		{
+			"term": "Computer",
+			"image": "https://i.ibb.co/xgrd5LC/computer.jpg"
+		},
+		{
+			"term": "How To",
+			"image": "https://i.imgur.com/4AFyqup.png"
+		},
+		{
+			"term": "Knowledge",
+			"image": "https://i.imgur.com/nyrbj9W.png"
+		},
+		{
+			"term": "World",
+			"image": "https://imgur.com/y5VjWsD"
+		},
+		{
+			"term": "Sports",
+			"image": "https://i.imgur.com/UjspMhN.png"
+		},
+		{
+			"term": "Football",
+			"image": "https://i.imgur.com/FPlz25l.png"
+		},
+		{
+			"term": "Technology",
+			"image": "https://i.imgur.com/3ybZYfE.png"
+		},
+		{
+			"term": "MS Word",
+			"image": "https://i.imgur.com/fWl1eS3.png"
+		},
+		{
+			"term": "Facebook Tips",
+			"image": "https://i.imgur.com/5tyPA0o.png"
+		},
+		{
+			"term": "Tips and Tricks",
+			"image": "https://i.imgur.com/5tyPA0o.png"
+		},
+		{
+			"term": "Make Money",
+			"image": "https://i.imgur.com/ILq47mR.png"
+		},
+		
+	]
+}
